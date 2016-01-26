@@ -1,0 +1,14 @@
+.hero-banner {
+    color: #f1f1f1;
+    text-align: center;
+    background-repeat: no-repeat;
+    position: relative;
+    overflow: auto;
+    background-image: url("../images/gauge_hero_image.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
